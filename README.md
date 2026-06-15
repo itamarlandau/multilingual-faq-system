@@ -9,16 +9,15 @@ A smart FAQ search engine that uses NLP models to detect user language, translat
 - **Semantic Search:** Uses Sentence Transformers (`all-mpnet-base-v2`) and Cosine Similarity to find the closest FAQ item.
 - **Multilingual Output:** Automatically translates the English answer back to the user's original language (French/Spanish).
 
-## 🛠️ Requirements
+##  Requirements
 To run this project, you will need to install the following dependencies:
 - `torch`
 - `transformers`
 - `sentence-transformers`
 - `sacremoses`
 
-## 💻 How to Use
+##  How to Use
 Run the script using Python:
 ```bash
 python אבנית_דרך_מודלים_מאומנים_איתמר_לנדאו.py
 ```
-# multilingual-faq-system
