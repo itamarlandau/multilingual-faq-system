@@ -19,5 +19,5 @@ To run this project, you will need to install the following dependencies:
 ##  How to Use
 Run the script using Python:
 ```bash
-python אבנית_דרך_מודלים_מאומנים_איתמר_לנדאו.py
+python FAQ_code.py
 ```
